@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IEEE754Converter</string>
+
+    <string name="title_float">Float Conversion</string>
+    <string name="title_double">Double Conversion</string>
+    <string name="title_binary">Binary Conversion</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_convert">Convert</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="entry_number">Entry your number</string>
+    <string name="hexadecimal">Hexadecimal</string>
+    <string name="hex_view">Hexadecimal</string>
+    <string name="sign_label">Sign</string>
+    <string name="label_exponent">Exponent</string>
+    <string name="label_significant">Significant</string>
+    <string name="significant_number">Significant</string>
+    <string name="exponent_number">exponent</string>
+    <string name="sign_number">Sign</string>
+</resources>
